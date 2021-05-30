@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  background-image: url("./cloud.jpg");
+}
+.container {
+  padding: 4rem;
+  text-align: center;
+  font-size: 1.5rem;
+}
+form {
+  padding: 2rem;
+}
+input {
+  padding: 1rem;
+  border-radius: 20px;
+}
+
+button {
+  background-color: rgb(183, 231, 110);
+  padding: 0.6rem 2rem;
+  font-size: 1.5rem;
+  border-radius: 20px;
+}
